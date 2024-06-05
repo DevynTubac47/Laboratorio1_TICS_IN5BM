@@ -1,0 +1,75 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: url(fondoSobreMi.png);
+    background-size: cover;
+    background-position: 0 0, center;
+}
+
+.contenido {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.pelicula {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.titulo {
+    margin-bottom: 10px;
+}
+
+.contenido-pelicula {
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 600px;
+}
+
+.imagen {
+    width: 300px;
+    height: 200px;
+}
+
+.imagenPelicula{
+    margin-right: 150px;
+}
+
+.videojuego {
+    text-align: right;
+}
+
+.tituloDerecha {
+    margin-bottom: 10px;
+    margin-right: 150px;
+}
+
+.contenido-videojuego {
+    margin-left: auto;
+    max-width: 450px;
+}
+
+.texto{
+    text-align: right;
+    margin-right: 75px;
+}
+
+.datosDerecha{
+    text-align: left;
+    margin-left: 325px;
+}
+
+.textoDerecha{
+    text-align: left;
+    margin-left: 150px;
+}
+
+.boton-regresar button {
+    background-color: #A904BF; 
+    color: #360259; 
+    padding: 10px 20px; 
+    border: none; 
+    border-radius: 20px; 
+    margin-left: 200px;
+}

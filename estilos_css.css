@@ -1,5 +1,30 @@
 body{
     margin: 0;
     padding: 0;
-    background: url(background.jpg);
+    background: url(fondoPagina.jpeg);
+    background-size: cover;
+    background-position: 0 0, center;
 }
+
+.titulo {
+    text-align: right;
+    margin-right: 90px;
+}
+
+.datos{
+    text-align: right;
+    margin-right: 80px;
+}
+
+a {
+    color: #C970E8; 
+}
+
+.contenedor {
+    display: flex;
+    align-items: center; 
+}
+.imagen {
+    margin-right: 5px; 
+}
+

@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: url(fondoCV.png);
+    background-size: cover;
+    background-position: 0 0, center;
+}
+
+.titulo {
+    text-align: right;
+    margin-right: 500px;
+}
+
+.imagen{
+    margin-left: 390px;
+}
+
+.boton-regresar button {
+    background-color: #A904BF; 
+    color: #360259; 
+    padding: 10px 20px; 
+    border: none; 
+    border-radius: 20px; 
+    margin-left: 30px;
+}
